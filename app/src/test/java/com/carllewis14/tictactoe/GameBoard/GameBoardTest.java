@@ -9,7 +9,7 @@ import java.util.Objects;
 import static org.junit.Assert.assertTrue;
 
 /**
- * Simple test to see if 3 cells have same mark return true else test fail 
+ * Simple test to see if 3 cells have same mark return true else test fail
  */
 public class GameBoardTest {
     @Test
